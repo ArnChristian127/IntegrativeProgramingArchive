@@ -1,2 +1,2 @@
-# integrative-programing-gui-archive
+# Integrative Programing
 previous activities in integrative programing
